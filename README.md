@@ -1,0 +1,1 @@
+#diff between sum of square first 10 num, and square of sum first 10 num
